@@ -11,7 +11,10 @@ Este projeto foi desenvolvido como parte da avaliação **AV2** da disciplina de
 
 ---
 
-## Integrantes : Gabriel Buarque, Vinicius Guerra, Rai Henrique.
+## Integrantes : 
+Gabriel Buarque, 
+Vinicius Guerra, 
+Rai Henrique.
 
 
 ---
