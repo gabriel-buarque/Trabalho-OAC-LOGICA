@@ -8,6 +8,14 @@ Projeto de um simulador de hardware (UCP/RAM) e escalonador de processos desenvo
 ## Sobre o Projeto
 Este projeto foi desenvolvido como parte da avaliação **AV2** da disciplina de **Organização e Arquitetura de Computadores** integrada com **Lógica de Programação**. 
 
+
+---
+
+## Integrantes : Gabriel Buarque, Vinicius Guerra, Rai Henrique.
+
+
+---
+
 O objetivo principal é construir um **Simulador de Computador** funcional em Python que demonstre visualmente, através do console, como o hardware (Processador e Memória RAM) e o Sistema Operacional (Escalonador de Processos) interagem para executar instruções e alternar tarefas.
 
 ---
